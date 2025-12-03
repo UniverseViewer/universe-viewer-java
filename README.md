@@ -5,3 +5,5 @@ It makes it possible to produce a conformal mapping of cosmological structures, 
 
 This is the legacy Java version, it is old and not maintained, please visit the new web-based version:
 [from this GitHub repository](https://github.com/UniverseViewer/universe-viewer).
+
+![Screenshot](screenshot.png)
